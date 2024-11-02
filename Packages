@@ -174,23 +174,6 @@ Name: 黄白助手(微信插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
 Package: cn.bitilly.HBWechatHelper
-Version: 1.5.9-2
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.5.9-2_iphoneos-arm64.deb
-Size: 7863948
-MD5sum: f5078786adc19dc3ecfd6e84e7edcc96
-SHA1: 4d71806121a6cc80220e6f0306dee0ffc4782b44
-SHA256: de0bd946cb05a1997ee28b49d36de73a99178083e0053a2336e9021e5e98e716
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)-Rootless
-Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
-
-Package: cn.bitilly.HBWechatHelper
 Version: 1.6.2
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
@@ -205,23 +188,6 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信插件)
-Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
-
-Package: cn.bitilly.HBWechatHelper
-Version: 1.6.2
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.2_iphoneos-arm64.deb
-Size: 9268684
-MD5sum: 2c087a8b3980f9d3441f499a38db4b0d
-SHA1: 964628ee171bc129672a489e3274bfcc9bb1c375
-SHA256: e23b5960f3b19699d1a490ea6727eea313ccc5ab19d1264ba9fc5cbfee67904d
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
 Package: cn.bitilly.HBWechatHelper
@@ -242,23 +208,6 @@ Name: 黄白助手(微信插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
 Package: cn.bitilly.HBWechatHelper
-Version: 1.6.3
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.3_iphoneos-arm64.deb
-Size: 9301004
-MD5sum: bcdda3609184d828b0b1df2a94dadb25
-SHA1: 080b9528adcdee963a674d080ad4c564ee21fd69
-SHA256: 1a0bbe66d58af0b4de192d8c77d18ef04c1d0b920d7c64ab7cde19df14bd1bcc
-Section: 微信插件
-Description: 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)-Rootless
-Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
-
-Package: cn.bitilly.HBWechatHelper
 Version: 1.6.4
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
@@ -276,23 +225,6 @@ Name: 黄白助手(微信插件)
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
 Package: cn.bitilly.HBWechatHelper
-Version: 1.6.4
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.4_iphoneos-arm64.deb
-Size: 8197548
-MD5sum: afb8cbbbf3c8287cd5cbc7919e2fd88e
-SHA1: 1ab91b73de935106625fd78dda920689daf68eea
-SHA256: dcfb7feb23a4fcd52d880377ac28f01f41afddd52ecdb59077cb7e698ac20695
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)-Rootless
-Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
-
-Package: cn.bitilly.HBWechatHelper
 Version: 1.6.6
 Architecture: iphoneos-arm
 Maintainer: HuangBai <QQ:1343309363@qq.com>
@@ -307,23 +239,6 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 黄白助手(微信插件)
-Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
-
-Package: cn.bitilly.HBWechatHelper
-Version: 1.6.6
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootless/cn.bitilly.HBWechatHelper_1.6.6_iphoneos-arm64.deb
-Size: 9495320
-MD5sum: 46f19a16834c255562262cefabf45122
-SHA1: b0312c04b7bd34b3717d0875b0d06bee808ff91a
-SHA256: bb63c7429997d8d393ac25daf3f2ad7b0dacdf08344346410ea32321aaf635d8
-Section: 微信插件
-Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 黄白助手(微信插件)-Rootless
 Sileodepiction: https://apt.bitilly.cn/Description/HBWechatHelper/HBWechatHelper.json
 
 Package: cn.bitilly.HBWechatHelper
@@ -996,23 +911,6 @@ Name: 抖音透明-rootless
 Sileodepiction: https://apt.bitilly.cn/Description/dyhook/dyhook.json
 
 Package: cn.bitilly.ena
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: x1a0
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.bitilly.ena_1.0.0_iphoneos-arm64.deb
-Size: 90562028
-MD5sum: 1ceec781d83ecb6ee61da1d46199225e
-SHA1: 44474de0ae575e0e5e24bbbe96161b90255c87e9
-SHA256: 94fa9d1a79f272c1dd029bbf572c9865c84082323fa4051492159117fcaad0ce
-Section: 功能助手
-Description: Extract Nearly Anything
-Author: x1a0
-Icon: https://apt.bitilly.cn/Description/ENA/Icon.png
-Name: ENA - Extract Nearly Anything
-Sileodepiction: https://apt.bitilly.cn/Description/ENA/ENA.json
-
-Package: cn.bitilly.ena
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: x1a0
@@ -1634,132 +1532,6 @@ Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 虚拟视频
 Sileodepiction: https://apt.bitilly.cn/Description/xnsp/xnsp.json
 
-Package: com.25mao.MiYou
-Version: 3.6-6
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.6-6_iphoneos-arm.deb
-Size: 8559460
-MD5sum: c291ff6b29eada16bac3d7c351657c2e
-SHA1: 45f1af19ed763a50e97a61a22fa53af665ac35bf
-SHA256: 4289bd8e85ad516fc085d8477920de5e346e96d247281a44e02ffd69550c4198
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.6-4.1
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.6-4.1_iphoneos-arm.deb
-Size: 8661932
-MD5sum: 7d586bd69e91ae95ba77d1d991a677dc
-SHA1: 735e9b9a3f15d72fb223079a412a602766fd9be2
-SHA256: 99c412b3afe16f12e29f67dd2a55e525cc437870b8e1540628ce557b29205be3
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.6-5
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.6-5_iphoneos-arm.deb
-Size: 8525220
-MD5sum: 6c0383ea4faf301362a1212a374cb78d
-SHA1: ef4e741dd48d25b0f8e477101eec58f4089b3abd
-SHA256: 9901dcb88a28870e7d2597c19911a89832c13890b4060ba230843abbc61b93fe
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.6-8
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.6-8_iphoneos-arm.deb
-Size: 8602328
-MD5sum: 0212b8ff1fe7b78c238a66b49a738060
-SHA1: 70cc75349ad27c1c7acdd6496c4190e31af75718
-SHA256: bbf17bdcfd67c229a124645db4d03d1132227d355c9088ef48c8e80314b41258
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.7-0
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.7-0_iphoneos-arm.deb
-Size: 8619200
-MD5sum: cdbec0c8206c84f5dfe099c3911edc8b
-SHA1: 65eab377469b70175dfa27ab5bab555a4c47e60a
-SHA256: 92cdf2a0146fabcf5cb60804297104b2fe046b73441c99f358bf710844eb0203
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.7-1
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.7-1_iphoneos-arm.deb
-Size: 9610820
-MD5sum: f1b1595d33ac82976c1f37d617f7c7a3
-SHA1: 36acf135724acf5f8a6ebd070671d3c00c59777e
-SHA256: ac0dee8822bce490b6b3eaffc55afe3c382a919be52757f6a6a6f3f5c2806f04
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou
-Version: 3.7-2
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.25mao.miyou_3.7-2_iphoneos-arm.deb
-Size: 9638920
-MD5sum: 557dc27d95c751abea4948efe8a888bb
-SHA1: 8dc9ce1c81ecc4060747529cfbc585a9a9d1f0dd
-SHA256: 64d7da1a43548e6fbf518155f0a9b7f646195f50a7a845368ddcf2eec0feb1d1
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手
-Sponsor: admin@25mao.com
-
 Package: com.25mao.miyou
 Version: 3.7-3
 Architecture: iphoneos-arm
@@ -1776,60 +1548,6 @@ Description: 微信助手-密友
 Author: Mao
 Icon: https://apt.bitilly.cn/images/WeChat.png
 Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou.rootless
-Version: 3.6-8
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/rootless/com.25mao.miyou.rootless_3.6-8_iphoneos-arm64.deb
-Size: 8603608
-MD5sum: e667bdec0d60f0a29f66c4b5af48f958
-SHA1: b7cba90b7ced577c7f781b5493b7af1b7c3999ba
-SHA256: 9a5cef9c9dfd374bb3cb6608719697ddb0ae367a3304759b7555b1a037f9cca7
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手-Rootless
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou.rootless
-Version: 3.7-0
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/rootless/com.25mao.miyou.rootless_3.7-0_iphoneos-arm64.deb
-Size: 8619280
-MD5sum: b53444d4672bbd76a557b4c1dcc78867
-SHA1: ad14dd943c610a30330a54864895005d0521c2ee
-SHA256: 01a535fa26e80cf0a2f2eba20073a308b4be0824efd4812b273408b27eb2cd1c
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手-Rootless
-Sponsor: admin@25mao.com
-
-Package: com.25mao.miyou.rootless
-Version: 3.7-1
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/rootless/com.25mao.miyou.rootless_3.7-1_iphoneos-arm64.deb
-Size: 9613592
-MD5sum: 1d4098fb072f17870db3fb701482cf8c
-SHA1: 2856b468637a15ecb02237afc85f948d55ca984e
-SHA256: 5b6f0f2d7ffc5af5cf3632ed2c8501022c1f8e03f7446403ff6e7299c0db7b9b
-Section: 微信插件
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
 Package: com.25mao.miyou.rootless
@@ -1892,132 +1610,6 @@ Name: Shuffle
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
 
 Package: com.eliofeghali.souvenir
-Version: 1.13
-Architecture: iphoneos-arm64
-Maintainer: Elio Feghali
-Installed-Size: 576
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.eliofeghali.souvenir_1.13_iphoneos-arm64.deb
-Size: 94120
-MD5sum: a4832eaf2ea5a9ce7ff84a216593a416
-SHA1: f5d417ab66dd2847d323b662b2679c609438309a
-SHA256: 6aed7b9a2f838e2d705dc94f89bc0035a5f4c06874e6f0aea82f110534f6eae8
-Section: 锁屏优化
-Description: 锁定屏幕自定义调整！
-Author: Elio Feghali
-Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.eliofeghali.souvenir
-Version: 1.14
-Architecture: iphoneos-arm64
-Maintainer: Elio Feghali
-Installed-Size: 596
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.eliofeghali.souvenir_1.14_iphoneos-arm64.deb
-Size: 95752
-MD5sum: cbbfd044b66c688b2dce1f2faef952b2
-SHA1: fa9fba812711e8b0e1f2ab9065ea47d87c597c30
-SHA256: d5e3e99beddac07a0c5aa6a627bae32dc7362e1861a22a555961a8cb7009fcbe
-Section: 锁屏优化
-Description: 锁定屏幕自定义调整！
-Author: Elio Feghali
-Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.eliofeghali.souvenir
-Version: 1.15
-Architecture: iphoneos-arm64
-Maintainer: Elio Feghali
-Installed-Size: 600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.eliofeghali.souvenir_1.15_iphoneos-arm64.deb
-Size: 95804
-MD5sum: 5215da09fcb827b95342c76d01e5ad3a
-SHA1: ac58c488b9ab4afb1d78158ecba555026f705d05
-SHA256: 81685b0fb4780851fc2269f2c18881680701f2bf8a00368c0d4c5b28a0f73927
-Section: 锁屏优化
-Description: 锁定屏幕自定义调整！
-Author: Elio Feghali
-Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir-rootless
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.eliofeghali.souvenir
-Version: 1.18
-Architecture: iphoneos-arm64
-Maintainer: Elio Feghali
-Installed-Size: 600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.eliofeghali.souvenir_1.18_iphoneos-arm64.deb
-Size: 96912
-MD5sum: 54ea5484231277735a87f2b4a61f46f1
-SHA1: 536de1a65ea2e99934b33f77cf2c3bb45e3bdfc7
-SHA256: d7e06b4e6b870597e8b910afa6895d4892bd5b07e569e93763fbf5a525c449a2
-Section: 锁屏优化
-Description: 锁定屏幕自定义调整！
-Author: Elio Feghali
-Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.eliofeghali.souvenir
-Version: 1.19
-Architecture: iphoneos-arm64
-Maintainer: Elio Feghali
-Installed-Size: 600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.eliofeghali.souvenir_1.19_iphoneos-arm64.deb
-Size: 98492
-MD5sum: daf3c156dd6f5df92c7a9b7fe323cf24
-SHA1: c2da34a3b8765b19f595f2452e650130201d7001
-SHA256: 7288f37b5114cf8f874ae354c29e7b1c85845ffe49bb287a0e4a81d80da02f7d
-Section: 锁屏优化
-Description: 锁定屏幕自定义调整！
-Author: Elio Feghali
-Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir-rootless
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.eliofeghali.souvenir
-Version: 1.20
-Architecture: iphoneos-arm64
-Maintainer: Elio Feghali
-Installed-Size: 600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.eliofeghali.souvenir_1.20_iphoneos-arm64.deb
-Size: 98408
-MD5sum: 6bdb3ff9043bce120ada53bf1d59e543
-SHA1: 4db6f97d9f32554ffc056a5f2bc2451ad3ec072e
-SHA256: 6c98f9a52ff337c9e00a79ac94aab7bc905c3e9cccbcc28397a69fbe52215d5f
-Section: 锁屏优化
-Description: 锁定屏幕自定义调整！
-Author: Elio Feghali
-Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir-rootless
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.eliofeghali.souvenir
-Version: 1.22
-Architecture: iphoneos-arm64
-Maintainer: Elio Feghali
-Installed-Size: 604
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.eliofeghali.souvenir_1.22_iphoneos-arm64.deb
-Size: 98840
-MD5sum: 651db73e32edfc39300050a5c70b14e5
-SHA1: 51def301bd939410cb7915b4ea094ab5ee46f701
-SHA256: ee623e841bb6c493e6ce10579792f36203fa749577861ec059dd40a909bdf961
-Section: 锁屏优化
-Description: 锁定屏幕自定义调整！
-Author: Elio Feghali
-Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
-Name: Souvenir-rootless
-Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.eliofeghali.souvenir
 Version: 1.23
 Architecture: iphoneos-arm64
 Maintainer: Elio Feghali
@@ -2034,110 +1626,6 @@ Author: Elio Feghali
 Icon: https://apt.bitilly.cn/Description/Souvenir/Icon.png
 Name: Souvenir-rootless
 Sileodepiction: https://apt.bitilly.cn/Description/Souvenir/Souvenir.json
-
-Package: com.flex2areo.apptools14
-Version: 1.9.4
-Architecture: iphoneos-arm
-Maintainer: aReo
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.flex2areo.apptools14_1.9.4_iphoneos-arm.deb
-Size: 344336
-MD5sum: 10b5a6877d7111ed0111b64972c7e03e
-SHA1: 2a3801f41e692b5a7a46c5ecd5291c6f460561a4
-SHA256: aa2beb738365e8ea9f12984c05f0fb75fb6f149428ca223da34dbeb4c286d832
-Section: 功能助手
-Description: An icon tool.
-Author: aReo
-Name: AppTools for iOS14
-
-Package: com.flex2areo.apptools14
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: aReo
-Installed-Size: 1444
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.flex2areo.apptools14_2.0.1_iphoneos-arm.deb
-Size: 347840
-MD5sum: 183b8a1d9599f0d90932ef6fd45f1a59
-SHA1: 24859292cac90b2b8dca92c78a07b504a5ab3a4a
-SHA256: e740891ff638cc2fa7be606e6e9ade549132cf53e632d948cd127a55a1639d52
-Section: 功能助手
-Description: An icon tool.
-Author: aReo
-Icon: https://apt.bitilly.cn/images/apptools.png
-Name: AppTools for iOS14
-
-Package: com.flex2areo.apptools14
-Version: 2.0.2
-Architecture: iphoneos-arm
-Maintainer: aReo
-Installed-Size: 1492
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.flex2areo.apptools14_2.0.2_iphoneos-arm.deb
-Size: 365492
-MD5sum: c4dda0cc94632815f36d01b04c7ad34e
-SHA1: cb1b61fb6156b18ea49d78c48f0a13c87c658bb2
-SHA256: 73d6748429a72b37b5e407451c8b46c4922b2e567a0527967b1d69efe71f3a89
-Section: 功能助手
-Description: An icon tool.
-Author: aReo
-Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
-Name: AppTools for iOS14
-Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools.json
-
-Package: com.flex2areo.apptools14
-Version: 2.0.3
-Architecture: iphoneos-arm
-Maintainer: aReo
-Installed-Size: 1492
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.flex2areo.apptools14_2.0.3_iphoneos-arm.deb
-Size: 360660
-MD5sum: 3eaf6c74abe50d015e94f2cffa216721
-SHA1: 43c48f5ee49478c350487c3181f0262e5494d328
-SHA256: 846673b2f222c0f7897442c58c87463257d8895ba0af1ea0b978b78a23403358
-Section: 功能助手
-Description: An icon tool.
-Author: aReo
-Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
-Name: AppTools for iOS14
-Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools.json
-
-Package: com.flex2areo.apptools14
-Version: 2.0.4
-Architecture: iphoneos-arm
-Maintainer: aReo
-Installed-Size: 1492
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.flex2areo.apptools14_2.0.4_iphoneos-arm.deb
-Size: 392388
-MD5sum: 94a15c6dc100d05aa586bb8c2f14d459
-SHA1: b7f5b6f81ebcb80cf4b3a43bf0a6bb8ea551f01a
-SHA256: d184393865761fc2cf616090e130f4fa0894951d40d71ba3e19598b3cf23b524
-Section: 功能助手
-Description: An icon tool.
-Author: aReo
-Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
-Name: AppTools for iOS14
-Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools.json
-
-Package: com.flex2areo.apptools14
-Version: 2.0.5
-Architecture: iphoneos-arm
-Maintainer: aReo
-Installed-Size: 1492
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.flex2areo.apptools14_2.0.5_iphoneos-arm.deb
-Size: 392396
-MD5sum: f6596d1b4622c98b74825fd0b7fdd632
-SHA1: 2a384c030d843a3927015858af42b13dea0bc92f
-SHA256: 88a00a16c7a8e3018bbeb7ac78d43e75e36dd2e663ed83469fa7fe570beaa384
-Section: 功能助手
-Description: An icon tool.
-Author: aReo
-Icon: https://apt.bitilly.cn/Description/apptools/apptools.png
-Name: AppTools for iOS14
-Sileodepiction: https://apt.bitilly.cn/Description/apptools/apptools.json
 
 Package: com.flex2areo.apptools14
 Version: 2.0.6
@@ -2397,56 +1885,6 @@ Sileodepiction: https://apt.bitilly.cn/Description/Always120/always120.json
 Sponsor: Snail
 
 Package: com.sutuplus.release
-Version: 5.3.5-1
-Architecture: iphoneos-arm
-Maintainer: Carby <super.cat.rabbit@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.sutuplus.release_5.3.5-1_iphoneos-arm.deb
-Size: 389308
-MD5sum: cdde73649b061eef6611033509619e38
-SHA1: 4cb115f1e2f679167f89ea29203a5db66662f8d6
-SHA256: 26c178b258c4aa39e60faa5431f73f2c9730bab810c8701027bee175ee1af469
-Section: 微信插件
-Description: 本插件安装包来自苏兔源
-Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
-Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
-Name: 酸果 - SG WX美化增强工具
-
-Package: com.sutuplus.release
-Version: 5.3.6-1
-Architecture: iphoneos-arm
-Maintainer: Carby <super.cat.rabbit@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.sutuplus.release_5.3.6-1_iphoneos-arm.deb
-Size: 380072
-MD5sum: 0061a5ae1d6e6d9f8a2d31b89c152e92
-SHA1: 9820120d3e91855b5ecb2fd718d7bf40d45cdca2
-SHA256: 227bab4b556d0e6d68f161808df456edeea9c3a19047b69acd8bbc2551f98974
-Section: 微信插件
-Description: 本插件安装包来自苏兔源
-Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
-Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 酸果 - SG WX美化增强工具
-
-Package: com.sutuplus.release
-Version: 5.3.7-1
-Architecture: iphoneos-arm
-Maintainer: Carby <super.cat.rabbit@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.sutuplus.release_5.3.7-1_iphoneos-arm.deb
-Size: 380772
-MD5sum: 795e1090c991e0d1ddc24f1896a253ea
-SHA1: 151b4da164da99ce5fcb81ce60aaceb602571dd4
-SHA256: 2020e35870f40372fff9fc37c8b74c605f269c25baeb9d74efd0cac75b9ade8d
-Section: 微信插件
-Description: 本插件安装包来自苏兔源
-Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
-Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
-Icon: https://apt.bitilly.cn/images/WeChat.png
-Name: 酸果 - SG WX美化增强工具
-
-Package: com.sutuplus.release
 Version: 5.5.0-2
 Architecture: iphoneos-arm
 Maintainer: Carby <super.cat.rabbit@gmail.com>
@@ -2552,40 +1990,6 @@ Author: Netskao
 Name: 抖音净化-Rootless
 
 Package: netskao.injectipa
-Version: 1.3-7
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0)
-Filename: ./debs/rootfull/netskao.injectipa_1.3-7_iphoneos-arm.deb
-Size: 6028004
-MD5sum: 4008925c91e874f6f9addfe8d2875db7
-SHA1: 6306d59879c4ab3164cfb919b0e5ac993a4c5429
-SHA256: 9476222eda2056c97c965938073b8d5e585441d2fc50197f38e8c424b259b6f7
-Section: Terminal_Support
-Homepage: https://github.com/Netskao/MacOS-Utils
-Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可，注入完成后的IPA需要签名使用
-Author: Netskao
-Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
-Name: injectipa
-
-Package: netskao.injectipa
-Version: 1.4-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: firmware (>= 11.0)
-Filename: ./debs/rootfull/netskao.injectipa_1.4-1_iphoneos-arm.deb
-Size: 1493084
-MD5sum: 0eb04aa88cbccc3e49f12af2e75e4790
-SHA1: 5e4609a3f0f7ba33cc1cbb2f4a94b51b1976fffb
-SHA256: c884495638933ede925fa2c55ceb5497809d3dded9c7821f9d6e94eb046a2d60
-Section: 终端支持
-Description: injectipa是一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用
-Author: Netskao
-Icon: https://apt.bitilly.cn/Description/injectipa/Icon.png
-Name: injectipa
-Sileodepiction: https://apt.bitilly.cn/Description/injectipa/injectipa.json
-
-Package: netskao.injectipa
 Version: 1.4-2
 Architecture: iphoneos-arm
 Maintainer: Netskao
@@ -2676,138 +2080,6 @@ Name: 微信净化旧版-rootless
 Sponsor: bitilly
 
 Package: xc.lzsxcl.o2
-Version: 4.1
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 17640
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootfull/xc.lzsxcl.o2_4.1_iphoneos-arm.deb
-Size: 9213924
-MD5sum: 62ac5dc27075156df72fa1f2fa6d4719
-SHA1: a4922ff11c424812e84218ddac0b0872fb6ad552
-SHA256: f83e86f3197b460d89af585ad3fc7bed19063a3ae7aa76edeb07c688802c1bdc
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2
-Version: 4.1.1
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 17592
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootfull/xc.lzsxcl.o2_4.1.1_iphoneos-arm.deb
-Size: 9209232
-MD5sum: 4c68107880baa162130b92e57afc626a
-SHA1: c14bd5aaecaab219bea9bb172cc46b7549662b1e
-SHA256: f8d9652b733b166cc18e992b967d70a8342c48be761febd62b1f4725995c2b68
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro
-Sileodepiction: https://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2
-Version: 5.0-14
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 20008
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootfull/xc.lzsxcl.o2_5.0-14_iphoneos-arm.deb
-Size: 10540592
-MD5sum: e5ecbbdf190672015667961a3c47143d
-SHA1: 1f252e9d22c09dafa2e02e8df12c5c021e9b8597
-SHA256: 8f876d4c1f45364124031a2b73b0fcacf6adf0774604c899ca0489775e29500f
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2
-Version: 5.1-1
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootfull/xc.lzsxcl.o2_5.1-1_iphoneos-arm.deb
-Size: 10349504
-MD5sum: 080f5c835540df045e6dee6b176969ff
-SHA1: b8ddd9dadd75b2f4ae86c67c7602d7b8b585e7b1
-SHA256: bdc06a2a5ff7cc946c3924f7f06ae3e65e227e64fb4333b12920722dee6753fa
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2
-Version: 5.2-2
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 18788
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootfull/xc.lzsxcl.o2_5.2-2_iphoneos-arm.deb
-Size: 10363268
-MD5sum: e49b30d4936fb0304157ed12dc030793
-SHA1: 271fc818c0df5e6965159029309e6425d3c10fae
-SHA256: ac114b857be6e2f858df1090df6bbdac38f2e61e22d54961322188b3acc63da6
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2
-Version: 5.2-4
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 18820
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootfull/xc.lzsxcl.o2_5.2-4_iphoneos-arm.deb
-Size: 10368176
-MD5sum: 9c4c290dd05ac140c3687e53ed9dc129
-SHA1: a30337c7daa529ef961e773759fa8371c89aa410
-SHA256: 8e31e2612c82a87d5ed71f04a6082d7d2973322dadd17d06bfa166f4efeeff81
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2
-Version: 6.0.1
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 22884
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootfull/xc.lzsxcl.o2_6.0.1_iphoneos-arm.deb
-Size: 13885948
-MD5sum: 63f2068f28a84e2031b1d86caad335fa
-SHA1: 860fd2b6cc126c6beef7fbb8891dffacb75a59eb
-SHA256: 8f5dcf46766b85b4f3b19b00002dd69f7227dbba4ac4669ee5c51ea632f6b430
-Section: 分屏工具
-Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。One step bridging the boundaries between applications, creating a new and beautiful and convenient way to split screens.
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2
 Version: 7.0
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
@@ -2843,138 +2115,6 @@ Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2.rootless
-Version: 4.1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 17656
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_4.1_iphoneos-arm64.deb
-Size: 9222208
-MD5sum: df488fe1c716338fa3cdd9f22cb091a1
-SHA1: 21c4c120484f602b6b8a3339195beda2229c05e2
-SHA256: 64d595411119de38be8d0db7ae92c31251c832337376c420ccf18ced17b241a0
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro rootless
-Sileodepiction: https://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2.rootless
-Version: 4.1.1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 17656
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_4.1.1_iphoneos-arm64.deb
-Size: 9225512
-MD5sum: a5b90596aaeddfe2ca85618b66f848ae
-SHA1: ff1a4442f0c816200b3c68cdcd549718f1a6de38
-SHA256: add026947c79eb06b448172354bf7c99dce6e78b988ecd68ac5d0969b97aa603
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro rootless
-Sileodepiction: https://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2.rootless
-Version: 5.0-1061
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 20104
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.0-1061_iphoneos-arm64.deb
-Size: 10579348
-MD5sum: a01440fc85c2b1a4cd24cae681d8090b
-SHA1: 5ba69e362b11e779c0877d77b5485b15fc0d2e6e
-SHA256: bb326ac58c2ccd63a08b8bcb8bea62217d9e3aa0b862c58bb9e2ed8e466ab710
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro rootless
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2.rootless
-Version: 5.1-11
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.1-11_iphoneos-arm64.deb
-Size: 10356456
-MD5sum: 111d7b336a330047bf429617c3881a02
-SHA1: 3003ccd26ed9d21005e3db8ebe36a64f484eba3b
-SHA256: 2e8dcf8ec7af92078823b450e434ff275d4bd596f8a4098e9981617781fc3938
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro rootless
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2.rootless
-Version: 5.2-3
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 18820
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.2-3_iphoneos-arm64.deb
-Size: 10365432
-MD5sum: 9e7206ff3b35c9b3f7059f4847dfbc1b
-SHA1: 0d9a36a7f372e45b94d2c0c8edc2fa4eea96589c
-SHA256: e71308f968c70bc5f19e97654bc33f96c149bdebb211e4b46d499cabed7fe7f4
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro rootless
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2.rootless
-Version: 5.2-5
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 18820
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_5.2-5_iphoneos-arm64.deb
-Size: 10371500
-MD5sum: 313f26b355f2202d31abddb8713bfb3c
-SHA1: 0b382d0c61be3580caf314c0d57c4737455981e4
-SHA256: 7b26392ad1f33692f375683900b482452d646ab334e543cfeb2ec7802f5cbf8d
-Section: 分屏工具
-Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro rootless
-Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
-
-Package: xc.lzsxcl.o2.rootless
-Version: 6.0.1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 22852
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/rootless/xc.lzsxcl.o2.rootless_6.0.1_iphoneos-arm64.deb
-Size: 13882608
-MD5sum: fa801d9945b108062e80f4747c72860c
-SHA1: 56b9153f73849a87e5781e5e6a88c97d01d09ff4
-SHA256: 6b1a64c052480807cba95c65ecc4d945d9c555f583d56fd0eca1ceaddf1d4f07
-Section: 分屏工具
-Description: 一步打通应用间的边界，全新美观便捷的分屏新方式。
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
-Name: o2 Pro rootless
 Sileodepiction: http://apt.bitilly.cn/Description/O2pro/O2pro.json
 
 Package: xc.lzsxcl.o2.rootless
